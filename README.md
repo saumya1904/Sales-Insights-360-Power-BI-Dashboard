@@ -43,7 +43,7 @@ o	Region-specific sales insights to support targeted marketing strategies.<br />
 o	Analysis of market and customer segments to optimize marketing strategies.　<br />
 o	Evaluation of campaign effectiveness and ROI.　<br />
 o	Insights into customer behavior and product performance across different markets.　<br />
-***4.	_[Supply Chain View:](https://github.com/saumya1904/AtliQ-Technologies-Sales-Insights-360-Power-BI-Dashboard/blob/main/SupplyChainViewView.png)_***　<br />
+***4.	_[Supply Chain View:](https://github.com/saumya1904/AtliQ-Technologies-Sales-Insights-360-Power-BI-Dashboard/blob/main/SupplyChainView.png)_***　<br />
 o	Comprehensive analysis of forecast accuracy, Net Error, and risk trends.　<br />
 o	Metrics related to supply chain efficiency, including product availability and logistics optimization.　<br />
 o	Insights into customer demand and product performance.　<br />
