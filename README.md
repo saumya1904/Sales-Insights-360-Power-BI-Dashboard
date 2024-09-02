@@ -1,4 +1,4 @@
-# AtliQ-Technologies-Sales-Insights-360-Power-BI-Dashboard
+# Sales-Insights-360-Power-BI-Dashboard
 
 ## Overview
 The "AtliQ Technologies Sales Insights 360" Power BI Dashboard is an all-encompassing analytical tool designed to empower decision-making across various departments of AtliQ Technologies. The dashboard serves as a single source of truth, offering deep insights into the company's financial, sales, marketing, supply chain, and executive operations. The report was developed to address the challenges posed by outdated data analytics methods, which led to significant business setbacks, particularly in the Latin American market.
