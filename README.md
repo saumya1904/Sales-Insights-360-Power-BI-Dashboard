@@ -31,23 +31,23 @@ The primary goal of this project was to create a robust Power BI dashboard that 
 •	Empowerment of AtliQ Technologies with data-driven decision-making capabilities.　<br />
 
 ## Key Features
-***1.	_[Finance View:](https://github.com/saumya1904/AtliQ-Technologies-Sales-Insights-360-Power-BI-Dashboard/blob/main/FinanceView.pdf)_***　<br />
+***1.	_[Finance View:](https://github.com/saumya1904/AtliQ-Technologies-Sales-Insights-360-Power-BI-Dashboard/blob/main/FinanceView.png)_***　<br />
 o	Detailed Profit & Loss (P&L) statements, including metrics such as Net Sales, Gross Margin, and Net Profit.　<br />
 o	Time-based performance analysis to track trends and identify areas for improvement.　<br />
 o	Top and bottom product/customer analysis based on financial performance.　<br />
-***2.	_[Sales View:](https://github.com/saumya1904/AtliQ-Technologies-Sales-Insights-360-Power-BI-Dashboard/blob/main/SalesView.pdf)_***　<br />
+***2.	_[Sales View:](https://github.com/saumya1904/AtliQ-Technologies-Sales-Insights-360-Power-BI-Dashboard/blob/main/SalesView.png)_***　<br />
 o	Customer and product performance analysis with a focus on unit economics.　<br />
 o	Evaluation of performance metrics influenced by Net Sales and Gross Margin Percentage.　<br />
 o	Region-specific sales insights to support targeted marketing strategies.<br />
-***3.	_[Marketing View:](https://github.com/saumya1904/AtliQ-Technologies-Sales-Insights-360-Power-BI-Dashboard/blob/main/MarketingView.pdf)_***　<br />
+***3.	_[Marketing View:](https://github.com/saumya1904/AtliQ-Technologies-Sales-Insights-360-Power-BI-Dashboard/blob/main/MarketingView.png)_***　<br />
 o	Analysis of market and customer segments to optimize marketing strategies.　<br />
 o	Evaluation of campaign effectiveness and ROI.　<br />
 o	Insights into customer behavior and product performance across different markets.　<br />
-***4.	_[Supply Chain View:](https://github.com/saumya1904/AtliQ-Technologies-Sales-Insights-360-Power-BI-Dashboard/blob/main/SupplyChainViewView.pdf)_***　<br />
+***4.	_[Supply Chain View:](https://github.com/saumya1904/AtliQ-Technologies-Sales-Insights-360-Power-BI-Dashboard/blob/main/SupplyChainViewView.png)_***　<br />
 o	Comprehensive analysis of forecast accuracy, Net Error, and risk trends.　<br />
 o	Metrics related to supply chain efficiency, including product availability and logistics optimization.　<br />
 o	Insights into customer demand and product performance.　<br />
-***5.	_[Executive View:](https://github.com/saumya1904/AtliQ-Technologies-Sales-Insights-360-Power-BI-Dashboard/blob/main/ExecutiveView.pdf)_***　<br />
+***5.	_[Executive View:](https://github.com/saumya1904/AtliQ-Technologies-Sales-Insights-360-Power-BI-Dashboard/blob/main/ExecutiveView.png)_***　<br />
 o	Strategic insights for top management, including market share analysis and revenue trends.　<br />
 o	Identification of top-performing products and customers.　<br />
 o	High-level overview of business performance to inform long-term strategies.　<br />
