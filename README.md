@@ -52,4 +52,5 @@ o	Strategic insights for top management, including market share analysis and rev
 o	Identification of top-performing products and customers.　<br />
 o	High-level overview of business performance to inform long-term strategies.　<br />
 
-Please refer to the original report for detailed numerical data.
+Please refer to the original Dashboard for detail.<br />
+(https://app.powerbi.com/groups/me/reports/5ddf5d90-5965-4b25-84c5-a320019d9cba/ReportSectioncd15880e8a49d33cdb00?experience=power-bi)
