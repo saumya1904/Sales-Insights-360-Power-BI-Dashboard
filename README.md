@@ -53,4 +53,4 @@ o	Identification of top-performing products and customers.　<br />
 o	High-level overview of business performance to inform long-term strategies.　<br />
 
 Please refer to the original Dashboard for detail.<br />
-(https://app.powerbi.com/groups/me/reports/5ddf5d90-5965-4b25-84c5-a320019d9cba/ReportSectioncd15880e8a49d33cdb00?experience=power-bi)
+https://app.powerbi.com/view?r=eyJrIjoiYmMwOTZkZjAtOTJkZS00ZTZlLTkzNzgtNGIwMTJkZmE1NTI1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
